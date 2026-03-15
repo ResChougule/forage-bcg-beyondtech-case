@@ -45,7 +45,8 @@ The project followed a **structured consulting framework**, mirroring BCG best p
 ---
 
 ## Key Deliverables
-> ### Using the Pyramid Principle to structure your message- **Analysis Notebooks:** `analysis/01–04.ipynb`  
+> ### Using the Pyramid Principle to structure your message
+- **Analysis Notebooks:** `analysis/01–04.ipynb`  
 - **Data:** `data/` – cleaned datasets for reproducibility  
 - **Visuals:** `visuals/` – charts and heatmaps summarizing insights  
 - **Consulting Report:** `report/beyondtech_case_study.pdf` – executive summary & recommendations  
