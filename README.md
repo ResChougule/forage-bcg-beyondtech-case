@@ -45,6 +45,7 @@ The project followed a **structured consulting framework**, mirroring BCG best p
 ---
 
 ## Key Deliverables
+> ## Pyramid Principle 
 - **Analysis Notebooks:** `analysis/01–04.ipynb`  
 - **Data:** `data/` – cleaned datasets for reproducibility  
 - **Visuals:** `visuals/` – charts and heatmaps summarizing insights  
