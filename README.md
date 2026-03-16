@@ -3,7 +3,7 @@
 
 Learn more about BeyondTech: [Company Overview](./background_information.md)
 
-Learn more about BeyondTech: [Company Overview](./background_information.md)**Forage BCG Strategy Consulting Virtual Internship**
+**Forage BCG Strategy Consulting Virtual Internship**
 ----
 ## Tools Used
 
