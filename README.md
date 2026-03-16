@@ -156,7 +156,7 @@ our next steps are to:
 
 1. Review the financial statements 
 2. Evaluate the year-over-year changes to notable finance metrics 
-3. Complete and upload the attached sli
+3. Complete and send the finding
 
 ### 📁 View Excel File
 
