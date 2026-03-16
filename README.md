@@ -123,7 +123,17 @@ Installment financing can drive adoption, retention, and revenue while keeping B
 
 3. **Challenges & Risks ⚠️**  
    - Late/missed payments possible  
-   - Operational readiness and brand image need monitoring  
+   - Operational readiness and brand image need monitoring
+
+Next Steps
+I recommend we test installment plans in select markets and with tech-savvy customers first. This will help us understand how it works for BeyondTech and what adjustments we might need.
+
+Looking forward to discussing this further.
+
+Thanks & Regards 
+
+Reshma 
+
 ----------
 
 | Metric                    | Current   | Expected with Installment | Impact          |
