@@ -166,6 +166,31 @@ our next steps are to:
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 4. Customer Survey & Insights
 
 Survey data was analyzed to evaluate customer willingness to adopt installment payment plans and how payment flexibility impacts purchasing decisions.
