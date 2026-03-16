@@ -123,7 +123,7 @@ Installment financing can drive adoption, retention, and revenue while keeping B
 3. **Challenges & Risks ⚠️**  
    - Late/missed payments possible  
    - Operational readiness and brand image need monitoring  
-
+----------
 
 | Metric                    | Current   | Expected with Installment | Impact          |
 | ------------------------- | --------- | ------------------------- | --------------- |
