@@ -28,6 +28,9 @@ Evaluate the viability of introducing **installment financing** at BeyondTech to
 ---
 
 ## Next Steps
+[![PDF Resources](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](./Strategy%20Consulting_Task%201_Resources.pdf)
+
+
 1. Review industry articles and case studies.  
 2. Collect data on competitors’ experiences with installment financing.  
 3. Summarize consumer behavior trends.  
