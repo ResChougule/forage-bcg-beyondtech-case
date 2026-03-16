@@ -102,10 +102,10 @@ Resources- [![PDF Resources](https://img.shields.io/badge/View-PDF-blue?style=fo
 - [Installment Financing Research](./research_installment_financing.md) – Evaluate consumer preferences, financial impact, and anticipated challenges.
 ---
 
-# An Email to the Project Leader....
+## An Email to the Project Leader....
 
 
-## Pyramid Principle Structure
+#### Pyramid Principle Structure
 
 **Top-Level Conclusion:**  
 Installment financing can drive adoption, retention, and revenue while keeping BeyondTech competitive.
@@ -124,10 +124,18 @@ Installment financing can drive adoption, retention, and revenue while keeping B
    - Late/missed payments possible  
    - Operational readiness and brand image need monitoring  
 
+</> markdown
+| Metric                    | Current   | Expected with Installment | Impact          |
+| ------------------------- | --------- | ------------------------- | --------------- |
+| Sales volume              | 100,000   | 115,000                   | +15%            |
+| Customer retention        | 70%       | 78%                       | +8%             |
+| Average upgrade frequency | 24 months | 18 months                 | Faster upgrades |
 
 
+*“Sources / Evidence”*
 
-
+- Always reference articles, competitor case studies, or reports:
+- “According to TechCo 2022 Annual Report, installment financing increased repeat purchases by 12%.”
 
 
 ## 3. Financial Modeling
