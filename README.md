@@ -58,15 +58,51 @@ forage-bcg-beyondtech-case
 --------
 ## Table of Contents
 
-- [Background Information](#1-background-information)
-- [Market & Competitor Analysis](#2-market--competitor-analysis)
-- [Financial Modeling](#3-financial-modeling)
-- [Customer Survey & Insights](#4-customer-survey--insights)
-- [Stakeholder Considerations](#5-stakeholder-considerations)
-- [Visual Analysis & Data Insights](#6-visual-analysis--data-insights)
-- [Consulting Report](#7-consulting-report)
-- [Executive Presentation](#8-executive-presentation)
-- [Project Structure](#project-structure)
+1. [Background Information](#1-background-information)
+2. [Market & Competitor Analysis](#2-market--competitor-analysis)
+3. [Financial Modeling](#3-financial-modeling)
+4. [Customer Survey & Insights](#4-customer-survey--insights)
+5. [Stakeholder Considerations](#5-stakeholder-considerations)
+6. [Visual Analysis & Data Insights](#6-visual-analysis--data-insights)
+7. [Consulting Report](#7-consulting-report)
+8. [Executive Presentation](#8-executive-presentation)
+9. [Project Structure](#project-structure)
+
+
+## 1. Background Information
+
+BeyondTech is a global telecommunications company experiencing declining customer retention and slower sales growth. Leadership is evaluating installment financing as a strategy to increase adoption and improve customer loyalty.
+
+---
+
+## 2. Market & Competitor Analysis
+
+This section analyzes industry competitors who have implemented installment financing models and evaluates their financial performance and retention outcomes.
+
+---
+
+## 3. Financial Modeling
+
+Financial scenarios were created to simulate the impact of installment financing on revenue growth, adoption rates, and profitability.
+
+---
+
+## 4. Customer Survey & Insights
+
+Survey data was analyzed to evaluate customer willingness to adopt installment payment plans and how payment flexibility impacts purchasing decisions.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
