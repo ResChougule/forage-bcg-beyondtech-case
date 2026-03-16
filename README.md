@@ -86,8 +86,7 @@ forage-bcg-beyondtech-case
 
 
 ## 1. Background Information
-
-BeyondTech is a global telecommunications company experiencing declining customer retention and slower sales growth. Leadership is evaluating installment financing as a strategy to increase adoption and improve customer loyalty.
+[![📄 Background Information](https://img.shields.io/badge/View-Background%20Info-blue?style=for-the-badge&logo=github&logoColor=white)](./background_information.md)BeyondTech is a global telecommunications company experiencing declining customer retention and slower sales growth. Leadership is evaluating installment financing as a strategy to increase adoption and improve customer loyalty.
 
 ---
 
