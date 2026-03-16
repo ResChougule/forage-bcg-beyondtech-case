@@ -106,10 +106,10 @@ Resources- [![PDF Resources](https://img.shields.io/badge/View-PDF-blue?style=fo
 
 ## Subject: Exploring Installment Financing for BeyondTech Customers
 
-- Hi,
+Hi,
 
-- I wanted to share a quick look at how installment financing could help BeyondTech meet customer needs and grow our business.
-- Installment financing can drive adoption, retention, and revenue while keeping BeyondTech competitive.
+I wanted to share a quick look at how installment financing could help BeyondTech meet customer needs and grow our business.
+* Installment financing can drive adoption, retention, and revenue while keeping BeyondTech competitive.*
 
 1. **Consumer Needs Alignment 📊**  
    - Customers want affordability and early upgrades  
@@ -123,7 +123,7 @@ Resources- [![PDF Resources](https://img.shields.io/badge/View-PDF-blue?style=fo
    - Late/missed payments possible  
    - Operational readiness and brand image need monitoring
 
-Next Steps
+Next Steps-
 I recommend we test installment plans in select markets and with tech-savvy customers first. This will help us understand how it works for BeyondTech and what adjustments we might need.
 
 Looking forward to discussing this further.
