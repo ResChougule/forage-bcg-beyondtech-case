@@ -1,7 +1,15 @@
 # BeyondTech Sales Strategy Analysis  
 **Forage BCG Strategy Consulting Virtual Internship**
+----
 
----
+## Tools Used
+
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Email Communication](https://img.shields.io/badge/Email-Communication-blue?style=for-the-badge)---
 
 ## Executive Summary
 This project simulates a **consulting engagement** with a global technology and telecommunications company, **BeyondTech**, to address declining sales growth and customer retention. The focus was evaluating the **viability of installment financing** as a strategic lever to drive revenue, adoption, and loyalty.  
