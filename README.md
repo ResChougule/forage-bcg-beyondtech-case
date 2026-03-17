@@ -227,43 +227,7 @@ Survey data was analyzed to evaluate customer willingness to adopt installment p
 
 
 
-# Approach & Methodology
-## Background Information
-- 
-## Market Research
-- 
-## Financial Modeling
-1. Review the financial statements 
-2. Evaluate the year-over-year changes to notable finance metrics 
-3. Complete and upload the attached slide
-
-
-
-
-# The project followed a **structured consulting framework**, mirroring BCG best practices:
-
-### 1. Market & Competitor Analysis
-- Collected financial and sales data of competitors offering installment plans  
-- Benchmarked adoption rates, retention, and profit margins  
-- Identified market best practices  
-
-### 2. Customer Insights
-- Analyzed simulated customer survey data  
-- Evaluated willingness to adopt installment plans and impact on purchase decisions  
-
-### 3. Financial Modeling
-- Projected revenue scenarios with installment financing  
-- Assessed default risk and impact on profitability  
-- Created sensitivity analysis for best-case, base-case, and worst-case outcomes  
-
-### 4. Operational Feasibility & Risk Assessment
-- Reviewed technology, staff, and process readiness  
-- Conducted risk assessment:
-  - Brand perception  
-  - Payment default risk  
-  - Operational complexity  
-
----
+-
 
 ## Key Deliverables
 > ### Using the Pyramid Principle to structure your message
