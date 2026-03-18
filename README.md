@@ -78,7 +78,7 @@ forage-bcg-beyondtech-case
 2. Task - [Market & Competitor Analysis](#2-market--competitor-analysis)
 3. Task - [Financial Modeling](#3-financial-modeling)
 4. Task - [Customer Survey & Insights](#4-customer-survey--insights)
-5. Task - [Data Analysis](#5-Data Analysis)
+5. Task - [Data Analysis](#5-Data-Analysis) 
 6. Task - [Visual Analysis & Data Insights](#6-visual-analysis--data-insights)
 7. Task - [ Report](#7-consulting-report)
 8. Task - [Executive Presentation](#8-executive-presentation)
