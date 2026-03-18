@@ -221,6 +221,28 @@ Focus on:
 
 [![View Survey Data](https://img.shields.io/badge/View-Survey%20Data-blue?style=for-the-badge)](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Task%204_Survey%20Data%20(1).pdf)
 
+------------------
+
+
+# 6.  Knowing Your Audience
+
+In this task, I will create a stakeholder analysis for BeyondTech’s potential installment financing program. 
+
+Focus on:
+1. Key stakeholders: Identify the five executive roles (CFO, CMO, CTO, COO, Head of Sales).
+2. Motivations: Understand what drives each stakeholder to support or oppose installment financing.
+3. Concerns: Highlight the top issues that need to be addressed to gain buy-in.
+
+The goal is to map perspectives and anticipate reactions to ensure that the recommendation is strategic and well received.
+
+
+
+
+
+
+
+
+
 
 
 
