@@ -106,9 +106,9 @@ Resources- [![PDF Resources](https://img.shields.io/badge/View-PDF-blue?style=fo
 - [Installment Financing Research](./research_installment_financing.md) – Evaluate consumer preferences, financial impact, and anticipated challenges.
 
 
-#### An Email to the Project Leader using Pyramid Principle Structure
+## An Email to the Project Leader using Pyramid Principle Structure
 
-##Subject: Exploring Installment Financing for BeyondTech Customers
+### Subject: Exploring Installment Financing for BeyondTech Customers
 
 Hi,
 
