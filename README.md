@@ -86,8 +86,9 @@ forage-bcg-beyondtech-case
 
 
 ## 1. Background Information
+----
 
-- At BCG, our purpose is to unlock the potential of those who advance the world. We do this by partnering with leading companies to help them solve their most complex challenges. Today, you’ll help us by stepping into the shoes of a BCG consultant to support our client, BeyondTech, a global technology and telecommunications leader.
+At BCG, our purpose is to unlock the potential of those who advance the world. We do this by partnering with leading companies to help them solve their most complex challenges. Today, I’ll be helping stepping into the shoes of a BCG consultant to support our client, BeyondTech, a global technology and telecommunications leader.
 
 The client company Information 
 [![📄 Background Information](https://img.shields.io/badge/View-Background%20Info-blue?style=for-the-badge&logo=github&logoColor=white)](./background_information.md)
