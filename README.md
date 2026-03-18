@@ -207,9 +207,14 @@ Understanding trade-offs is critical, as customers may prefer 0% interest and no
 
 You can view or download the survey PDF here: [Survey.pdf](https://github.com/ResChougule/forage-bcg-beyondtech-case/blob/main/Survey.pdf)
 
+# 5. Data Analysis
 
+The customer survey is complete. Our task is to analyze the collected data to identify trends and key insights. 
 
-
+Focus on:
+1. Customer Segments: Which groups are most likely to use installment financing.
+2. Decision Factors: What influences their choice to finance purchases.
+3. Drivers & Concerns: Key motivations and hesitations that should guide BeyondTech’s financing strategy.
 
 
 
