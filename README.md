@@ -189,34 +189,19 @@ Installment financing has short-term trade-offs, such as higher costs and cash p
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 4. Customer Survey & Insights
 
-Survey data was analyzed to evaluate customer willingness to adopt installment payment plans and how payment flexibility impacts purchasing decisions.
+Purpose
 
+This section presents a consumer survey designed to assess the viability and appeal of BeyondTech’s installment financing model. The survey aims to:
 
+1. Evaluate the overall attractiveness of installment plans.
 
+2. Identify which customer segments are most interested in installment options.
+
+3. Understand trade-offs customers are willing to make when choosing financing terms.
+
+Understanding trade-offs is critical, as customers may prefer 0% interest and no down payment, but compromises may be necessary. This survey helps identify which aspects—such as monthly payment amount, contract length, or upfront cost—are most important to consumers, enabling a financing model that balances customer appeal and profitability.
 
 
 
