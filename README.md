@@ -224,7 +224,7 @@ Focus on:
 ------------------
 
 
-# 6.  Knowing Your Audience
+# 6. Knowing Your Audience
 
 In this task, I will create a stakeholder analysis for BeyondTech’s potential installment financing program. 
 
